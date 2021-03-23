@@ -13,6 +13,7 @@
   </p>
 <h4 align="center"> 📫 How to reach me: </h4>
 <p align="center"> Connect with me on LinkedIn <br> <a href="https://linkedin.com/in/theadarshsaxena"><img height="28" width="28" src="https://img.icons8.com/fluent/344/linkedin.png" /></a> </p>
+<p align="center"> Look at my Medium blogs <br> <a href="https://theadarshsaxena.medium.com"><img height="28" width="28" src="https://img.icons8.com/ios-glyphs/344/medium-monogram.png" /></a> </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=theadarshsaxena&show_icons=true alt=AdarshSaxena /> </p>
 
