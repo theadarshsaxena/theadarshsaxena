@@ -1,21 +1,33 @@
-<h2 align="center"> Hi there, I'm Adarsh Saxena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="200px" ><br> </p>
-<h4 align="center"> I'm a DevOps AL practitioner & Cloud Computing, Big Data & Machine Learning Enthusiast </h4>
-<h5 align="center"> 🔭 I Love integrating different tools and technologies to come up with some new tool or solution</h5>
-<h5 align="center"> 🌱 I’m currently learning </h5>
-<p align="center">
-<img alt="RHEL" height="22" width="22"  src="https://img.icons8.com/color/344/red-hat.png"/>
-  <img alt="Kubernetes" height="22" width="22" src="https://img.icons8.com/color/2x/kubernetes.png"/>
-  <img alt="Jenkins" height="22" width="22" src="https://img.icons8.com/color/2x/jenkins.png"/>
-  <img alt="Docker" height="22" width="22" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
-<img alt="Bash" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/gnubash.svg" />
-  <img alt="Big Data - Hadoop" height="22" width="22" src="https://img.icons8.com/color/2x/hadoop-distributed-file-system.png"/> 
-  </p>
-<h4 align="center"> 📫 How to reach me: </h4>
-<p align="center"> Connect with me on LinkedIn <br> <a href="https://linkedin.com/in/theadarshsaxena"><img height="28" width="28" src="https://img.icons8.com/fluent/344/linkedin.png" /></a> </p>
-<p align="center"> Look at my Medium blogs <br> <a href="https://theadarshsaxena.medium.com"><img height="28" width="28" src="https://img.icons8.com/ios-glyphs/344/medium-monogram.png" /></a> </p>
+<h1 align="center"> Hi there, I'm Adarsh Saxena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h4> Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and continuous integration/continuous deployment (CI/CD). Here's a little about me: </h4>
+<!-- Banner -->
+<img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=theadarshsaxena&show_icons=true alt=AdarshSaxena /> </p>
+<h2>🛠 Skills & Technologies</h2>
+<p><b>💻 Programming Languages:</b> Python⭐⭐⭐, Go⭐⭐, Bash⭐⭐, Java⭐</br>
+<b>☁️Cloud Platforms:</b> AWS (EKS, ECS, Fargate etc.)<br>
+<b>📜 Infrastructure as Code:</b> Terraform, CloudFormation</br>
+<b>🐳 Containerization:</b> Docker, Kubernetes</br>
+<b>🔄 CI/CD:</b> Jenkins, ArgoCD</br>
+<b>📈 Monitoring & Observability:</b> Prometheus, Grafana, SigNoz, CloudWatch, New Relic</br>
+<b>🔧 Others:</b> Helm, Ansible, Git</p>
+<h2>🔧 Tools & Projects</h2>
+<h3><a href="https://github.com/theadarshsaxena/kxtop">📊 kxtop🔗</a></h3>
+<p>A kubectl top alternative with enhanced features for AWS EKS.</p>
+<ul>
+    <li>Fetch CPU/Memory metrics for pods and Nodes</li>
+    <li>Getting result in colored format to quick analysis</li>
+</ul>
+<h2>📫 Get in Touch</h2>
+<ul>
+    <li>LinkedIn: <a href="https://linkedin.com/in/theadarshsaxena">Adarsh Saxena</a></li>
+    <li>Twitter: <a href="https://x.com/TheAdarshSaxena">@theadarshsaxena</a></li>
+    <li>Email: <a href="mailto:adarshsaxena358@gmail.com">adarshsaxena358@gmail.com</a></li>
+    <li>Medium: <a href="https://theadarshsaxena.medium.com/">theadarshsaxena</a></li>
+</ul>
+
+<h2>📈 GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=theadarshsaxena&show_icons=true&theme=radical" alt="Adarsh Saxena"></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theadarshsaxena&color=brightgreen)
 
