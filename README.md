@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/I_am_Looking_for_Opportunities-Available-brightgreen"/>
 
 <h2>🛠 Skills & Technologies</h2>
-<p><b>💻 Programming Languages:</b> Python⭐⭐⭐, Go⭐⭐, Bash⭐⭐, Java⭐</br>
+<p><b>💻 Programming Languages:</b> Go⭐⭐⭐, Python⭐⭐, Bash⭐⭐, Java⭐</br>
 <b>☁️Cloud Platforms:</b> AWS (EKS, ECS, Fargate etc.)<br>
 <b>📜 Infrastructure as Code:</b> Terraform, CloudFormation</br>
 <b>🐳 Containerization:</b> Docker, Kubernetes</br>
